@@ -1,0 +1,2 @@
+///git is a version control tool that allows me to track changes that I have made locally and compare versions and work on separte branches. 
+///github hosts the repositories online and allows us to collaborate on projects. 
